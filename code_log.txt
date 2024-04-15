@@ -1,0 +1,16 @@
+2024-Feb-12-19:46:29,Start extracting data
+2024-Feb-12-19:46:30,End extracting data
+2024-Feb-12-19:46:30,Start transforming data
+2024-Feb-12-19:46:30,End transforming data
+2024-Feb-12-19:46:30,Start loading data to csv
+2024-Feb-12-19:46:30,End loading data to csv
+2024-Feb-12-19:46:30,Start loading data to db
+2024-Feb-12-19:46:30,End loading data to db
+2024-Apr-15-10:31:28,Start extracting data
+2024-Apr-15-10:31:30,End extracting data
+2024-Apr-15-10:31:30,Start transforming data
+2024-Apr-15-10:31:30,End transforming data
+2024-Apr-15-10:31:30,Start loading data to csv
+2024-Apr-15-10:31:30,End loading data to csv
+2024-Apr-15-10:31:30,Start loading data to db
+2024-Apr-15-10:31:30,End loading data to db
